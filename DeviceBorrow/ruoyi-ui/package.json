@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "4.4.6",
-    "@vue/cli-service": "4.4.6",
+    "@vue/cli-service": "^4.4.6",
     "babel-plugin-dynamic-import-node": "2.3.3",
     "chalk": "4.1.0",
     "compression-webpack-plugin": "6.1.2",
